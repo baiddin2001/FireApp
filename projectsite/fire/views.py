@@ -167,6 +167,7 @@ def multipleBarbySeverity(request):
         result[level] = dict(sorted(result[level].items()))
 
     return JsonResponse(result)
+
 def LineCountbyMonth(request):
 
     current_year = datetime.now().year
