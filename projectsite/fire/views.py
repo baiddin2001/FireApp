@@ -24,6 +24,7 @@ class ChartView(ListView):
 
     def get_queryset(self, *args, **kwargs):
         pass
+
     
 def PieCountbySeverity(request):
     query = '''
