@@ -27,9 +27,6 @@
 
 <img src="https://github.com/Zhar-dev.png" alt="Zhar" width="100px" border-radius="50px">
 
-Name: **Al-nizar Wahab**  
-Email: **www.alnizarw07@gmail.com**
+Name: **Tracer Bench D. Baiddin**  
+Email: **baiddintracerbench@gmail.com**
 
-Connect with me:
-<a href="https://www.facebook.com/zharwahab"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40" border-radius="20px">
-<a href="https://github.com/Zhar-dev"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40" border-radius="20px">
