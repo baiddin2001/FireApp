@@ -25,8 +25,6 @@
 
 ## About the Authors
 
-<img src="https://github.com/Zhar-dev.png" alt="Zhar" width="100px" border-radius="50px">
-
 Name: **Tracer Bench D. Baiddin**  
 Email: **baiddintracerbench@gmail.com**
 
